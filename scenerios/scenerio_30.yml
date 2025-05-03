@@ -1,0 +1,347 @@
+agents:
+  agent0:
+    initial_pose:
+    - 15.0
+    - 0.0
+    - 3.141592653589793
+    initial_goal:
+    - -15.0
+    - -0.0
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent1:
+    initial_pose:
+    - 14.672214011007085
+    - 3.11867536226639
+    - 3.3510321638291125
+    initial_goal:
+    - -14.672214011007085
+    - -3.11867536226639
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent2:
+    initial_pose:
+    - 13.703181864639014
+    - 6.101049646137002
+    - 3.5604716740684323
+    initial_goal:
+    - -13.703181864639014
+    - -6.101049646137002
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent3:
+    initial_pose:
+    - 12.135254915624213
+    - 8.816778784387097
+    - 3.7699111843077517
+    initial_goal:
+    - -12.135254915624213
+    - -8.816778784387097
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent4:
+    initial_pose:
+    - 10.036959095382873
+    - 11.147172382160912
+    - 3.979350694547071
+    initial_goal:
+    - -10.036959095382873
+    - -11.147172382160912
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent5:
+    initial_pose:
+    - 7.500000000000002
+    - 12.990381056766578
+    - 4.1887902047863905
+    initial_goal:
+    - -7.500000000000002
+    - -12.990381056766578
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent6:
+    initial_pose:
+    - 4.635254915624212
+    - 14.265847744427303
+    - 4.39822971502571
+    initial_goal:
+    - -4.635254915624212
+    - -14.265847744427303
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent7:
+    initial_pose:
+    - 1.5679269490148051
+    - 14.9178284305241
+    - 4.607669225265029
+    initial_goal:
+    - -1.5679269490148051
+    - -14.9178284305241
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent8:
+    initial_pose:
+    - -1.5679269490148
+    - 14.917828430524102
+    - 4.817108735504349
+    initial_goal:
+    - 1.5679269490148
+    - -14.917828430524102
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent9:
+    initial_pose:
+    - -4.63525491562421
+    - 14.265847744427305
+    - 5.026548245743669
+    initial_goal:
+    - 4.63525491562421
+    - -14.265847744427305
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent10:
+    initial_pose:
+    - -7.4999999999999964
+    - 12.99038105676658
+    - 5.235987755982988
+    initial_goal:
+    - 7.4999999999999964
+    - -12.99038105676658
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent11:
+    initial_pose:
+    - -10.03695909538287
+    - 11.147172382160917
+    - 5.445427266222308
+    initial_goal:
+    - 10.03695909538287
+    - -11.147172382160917
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent12:
+    initial_pose:
+    - -12.13525491562421
+    - 8.816778784387099
+    - 5.654866776461628
+    initial_goal:
+    - 12.13525491562421
+    - -8.816778784387099
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent13:
+    initial_pose:
+    - -13.703181864639012
+    - 6.101049646137007
+    - 5.864306286700947
+    initial_goal:
+    - 13.703181864639012
+    - -6.101049646137007
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent14:
+    initial_pose:
+    - -14.672214011007084
+    - 3.118675362266396
+    - 6.073745796940266
+    initial_goal:
+    - 14.672214011007084
+    - -3.118675362266396
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent15:
+    initial_pose:
+    - -15.0
+    - 1.83697019872103e-15
+    - 6.283185307179586
+    initial_goal:
+    - 15.0
+    - -1.83697019872103e-15
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent16:
+    initial_pose:
+    - -14.672214011007085
+    - -3.118675362266386
+    - 6.492624817418905
+    initial_goal:
+    - 14.672214011007085
+    - 3.118675362266386
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent17:
+    initial_pose:
+    - -13.703181864639017
+    - -6.101049646136997
+    - 6.702064327658225
+    initial_goal:
+    - 13.703181864639017
+    - 6.101049646136997
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent18:
+    initial_pose:
+    - -12.135254915624213
+    - -8.816778784387095
+    - 6.911503837897545
+    initial_goal:
+    - 12.135254915624213
+    - 8.816778784387095
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent19:
+    initial_pose:
+    - -10.036959095382876
+    - -11.14717238216091
+    - 7.120943348136864
+    initial_goal:
+    - 10.036959095382876
+    - 11.14717238216091
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent20:
+    initial_pose:
+    - -7.500000000000007
+    - -12.990381056766577
+    - 7.330382858376184
+    initial_goal:
+    - 7.500000000000007
+    - 12.990381056766577
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent21:
+    initial_pose:
+    - -4.6352549156242135
+    - -14.265847744427303
+    - 7.5398223686155035
+    initial_goal:
+    - 4.6352549156242135
+    - 14.265847744427303
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent22:
+    initial_pose:
+    - -1.5679269490148136
+    - -14.9178284305241
+    - 7.749261878854822
+    initial_goal:
+    - 1.5679269490148136
+    - 14.9178284305241
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent23:
+    initial_pose:
+    - 1.5679269490147947
+    - -14.917828430524102
+    - 7.958701389094142
+    initial_goal:
+    - -1.5679269490147947
+    - 14.917828430524102
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent24:
+    initial_pose:
+    - 4.635254915624208
+    - -14.265847744427305
+    - 8.168140899333462
+    initial_goal:
+    - -4.635254915624208
+    - 14.265847744427305
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent25:
+    initial_pose:
+    - 7.49999999999999
+    - -12.990381056766585
+    - 8.377580409572781
+    initial_goal:
+    - -7.49999999999999
+    - 12.990381056766585
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent26:
+    initial_pose:
+    - 10.036959095382867
+    - -11.14717238216092
+    - 8.5870199198121
+    initial_goal:
+    - -10.036959095382867
+    - 11.14717238216092
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent27:
+    initial_pose:
+    - 12.13525491562421
+    - -8.8167787843871
+    - 8.79645943005142
+    initial_goal:
+    - -12.13525491562421
+    - 8.8167787843871
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent28:
+    initial_pose:
+    - 13.703181864639008
+    - -6.101049646137014
+    - 9.00589894029074
+    initial_goal:
+    - -13.703181864639008
+    - 6.101049646137014
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+  agent29:
+    initial_pose:
+    - 14.672214011007084
+    - -3.118675362266398
+    - 9.215338450530059
+    initial_goal:
+    - -14.672214011007084
+    - 3.118675362266398
+    - 0.0
+    type: agent
+    urdf: aritra.urdf
+control:
+  u_max:
+  - 6
+  - 6
+  u_min:
+  - -6
+  - -6
+device: cuda
+dt: 0.5
+objective:
+  max_speed: 0.5
+simulator:
+  mode: thrust
+  render: true
+  steps: 700
+  urdf: quarter_roboat.urdf

@@ -1,0 +1,13 @@
+Source,Target,Type,Weight
+agent_0,vel_0,Directed,0.5
+agent_1,vel_1,Directed,0.49999999999999994
+agent_2,vel_2,Directed,0.49999999999999994
+agent_3,vel_3,Directed,0.5
+agent_4,vel_4,Directed,0.49999999999999994
+agent_5,vel_5,Directed,0.49999999999999994
+agent_6,vel_6,Directed,0.4999999999999999
+agent_7,vel_7,Directed,0.5
+agent_8,vel_8,Directed,0.49999999999999994
+agent_9,vel_9,Directed,0.49999999999999994
+agent_10,vel_10,Directed,0.49999999999999994
+agent_11,vel_11,Directed,0.49999999999999994
